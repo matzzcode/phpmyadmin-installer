@@ -7,3 +7,5 @@ unzip phpMyAdmin-5.2.2-all-languages.zip
 rm phpMyAdmin-5.2.2-all-languages.zip
 
 mv phpMyAdmin-5.2.2-all-languages phpmyadmin
+
+echo Installation Completed Please Visit https://panel.example.com/phpmyadmin
